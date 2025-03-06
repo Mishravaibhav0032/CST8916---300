@@ -117,5 +117,14 @@ WebSocket Example Message Format: <p></p>
 1. Needs additional server resources to keep the connections open.<p></p>
 2. Is hard to scale to large numbers of simultaneous users.<p></p>
 
+<h3>3.2 WebSockets vs. REST vs. GraphQL for Real-time Data Flow :- </h3>
+
+| Feature       | REST                               | GraphQL                 | WebSockets                           |
+| ------------- | ---------------------------------- | ----------------------- | ------------------------------------ |
+| Communication | Request-response                   | Request-response        | Persistent bi-directional connection |
+| Data Updates	| Polling required                   | Subscriptions supported | Instant push updates                 |
+| Scalability	| Easy but inefficient for real-time | Better than REST        | Requires load balancing              |
+| Use Case	| General APIs                       | Optimized data fetching | Live streaming data                  |
+
 
 
