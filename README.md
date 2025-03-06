@@ -38,22 +38,22 @@ GraphQL is a query language that allows clients to get exactly the needed data, 
 Example GraphQL Queries and Mutations:
 <p></p>
 Obtaining Stock Information :- <p></p>
-query {
-  stocks {
-    symbol
-    name
-    price
-    volume
-    changePercentage
-  }
-}
+query { <p></p>
+  stocks {<p></p>
+    symbol<p></p>
+    name<p></p>
+    price<p></p>
+    volume<p></p>
+    changePercentage<p></p>
+  }<p></p>
+}<p></p>
 <p></p>
 Updating Stock Price :- <p></p>
-mutation {
-  updateStock(symbol: "AAPL", price: 185.50) {
-    symbol
-    price
-    volume
-    changePercentage
-  }
-}
+mutation {<p></p>
+  updateStock(symbol: "AAPL", price: 185.50) { <p></p>
+    symbol<p></p>
+    price<p></p>
+    volume<p></p>
+    changePercentage<p></p>
+  }<p></p>
+}<p></p>
