@@ -38,9 +38,6 @@ GraphQL is a query language that allows clients to get exactly the needed data, 
 Example GraphQL Queries and Mutations:
 <p></p>
 Obtaining Stock Information :- <p></p>
-# Example GraphQL Queries and Mutations
-
-<p>Obtaining Stock Information :- </p>
 
 ```graphql
 query {
