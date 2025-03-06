@@ -76,3 +76,14 @@ mutation {
 2. It is harder to use caching methods.<p></p>
 3. May be slower for big, deeply nested queries.<p></p>
 
+<p></p>
+2.3 REST vs. GraphQL Comparison for Stock Market Monitoring :- <p></p>
+ 
+| Feature             |	REST                                        | GraphQL                                |
+| ------------------- | ------------------------------------------- | -------------------------------------- |
+| Data Fetching       | Fixed structure, may over-fetch/under-fetch | Fetches only needed fields             |
+| Number of Endpoints |	Multiple                                    | Single (/graphql)                      |
+| Real-time Support   | Polling required                            | Native subscriptions for live updates  |
+| Ease of Use         | Simple but rigid                            | Flexible but requires a learning curve |
+| Caching             | Easy to implement                           | More complex                           |
+
