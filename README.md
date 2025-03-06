@@ -10,3 +10,12 @@
 <h3>2.1 Using REST for Stock Market Data Handling.</h3>
 <P></P>
 <p>REST (Representational State Transfer) is a popular API design that utilizes HTTP to interact with regular CRUD operations (Create, Read, Update, Delete). It has defined endpoints for data retrieval and updates.</p>
+
+<p>Example REST API Endpoints :-</p>
+
+<li>GET /stocks :- Fetches a list of all stocks and their latest prices.</li>
+<li>GET /stocks/{symbol} :- Retrieves real-time data for a specific stock (e.g., AAPL, TSLA).</li>
+<li>POST /stocks :- Adds a new stock entry to the system.</li>
+<li>PUT /stocks/{symbol} :- Updates stock price, volume, and other market data.</li>
+<li>DELETE /stocks/{symbol} :- Removes a stock from tracking.</li>
+
