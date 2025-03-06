@@ -144,4 +144,16 @@ GraphQL handles initial stock data retrieval.<p></p>
 WebSockets provide live price updates.<p></p>
 GraphQL subscriptions enable targeted real-time updates.<p></p>
 
+<h2>5. Group Contributions :- </h2>
+
+Member 1 :- Documented REST and GraphQL implementations.<p></p>
+Member 2 :- Researched and wrote about WebSockets and final recommendations.<p></p>
+
+<h2>References :- </h2>
+
+(1) Codecademy. (n.d.). What is REST? Codecademy. https://www.codecademy.com/article/what-is-rest <p></p>
+(2) Hygraph. (2024, October 17). What is GraphQL? https://hygraph.com/learn/graphql  <p></p>
+(3) GeeksforGeeks. (2024b, August 22). What is web socket and how it is different from the HTTP? GeeksforGeeks. https://www.geeksforgeeks.org/what-is-web-socket-and-how-it-is-different-from-the-http/  <p></p>
+(4) DeepSeek - Into the Unknown. (n.d.). https://deepsearchs.com/chat/?gad_source=1&gclid=CjwKCAiAiaC-BhBEEiwAjY99qDlqzhu2WlD5uhubsFQqqmNnaJNIzkJVCq8HHE3p5XU5Ovm_gwFtfBoCDewQAvD_BwE  <p></p>
+
 
