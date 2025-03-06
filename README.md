@@ -1,12 +1,12 @@
 <b>Group :- 14</b>
 <h1> Real-time Stock Market Monitoring App: REST, GraphQL, and WebSockets :- </h1>
 <p></p>
-<h2>1. Introduction</h2>
+<h2>1. Introduction :-</h2>
 
 <p>Tracking stock markets requires real-time updates to track the price of stocks, volume, and market trends. This analysis compares REST, GraphQL, and WebSockets in building a real-time stock market tracking application. We go over their pros, cons, and suggest the optimum architecture for data management and real-time updates.</p>
 
 
-<h2>2. REST and GraphQL for Data Requests and Updates</h2>
+<h2>2. REST and GraphQL for Data Requests and Updates :-</h2>
 <P></P>
 <h3>2.1 Using REST for Stock Market Data Handling.</h3>
 <P></P>
@@ -88,7 +88,7 @@ mutation {
 | Ease of Use         | Simple but rigid                            | Flexible but requires a learning curve |
 | Caching             | Easy to implement                           | More complex                           |
 
-<h2> 3. WebSockets for Real-time Communication.</h2>
+<h2> 3. WebSockets for Real-time Communication :-</h2>
 
 <h3>3.1 How WebSockets Facilitate Real-time Stock Market Tracking?</h3>
 <p>WebSockets provide a persistent connection between client and server, which allows for real-time stock prices without sequential API requests.</p>
