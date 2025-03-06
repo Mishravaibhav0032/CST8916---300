@@ -87,3 +87,22 @@ mutation {
 | Ease of Use         | Simple but rigid                            | Flexible but requires a learning curve |
 | Caching             | Easy to implement                           | More complex                           |
 
+<h2> 3. WebSockets for Real-time Communication.</h2>
+
+<h3>3.1 How WebSockets Facilitate Real-time Stock Market Tracking?</h3>
+<p>WebSockets provide a persistent connection between client and server, which allows for real-time stock prices without sequential API requests.</p>
+<p>How WebSockets Function in a Stock Tracking Application :-</p>
+1. Client connects to the WebSocket server: ws://stockserver.com/live<p></p>
+2. Server posts live updates whenever prices change.<p></p>
+3. Client gets live updates without polling or any further HTTP requests.<p></p>
+<p></p>
+WebSocket Example Message Format: <p></p>
+```json
+{
+  "symbol": "AAPL",
+  "price": 185.75,
+  "change": "-0.5%",
+  "timestamp": "2025-03-04T14:32:00Z"
+}
+
+
