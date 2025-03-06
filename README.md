@@ -62,7 +62,8 @@ mutation {
     changePercentage
   }
 }
-<br> </br>
+```
+
 <p>Advantages of Utilizing GraphQL for Stock Tracking :-</p>
 
 1. Flexible queries that fetch just needed information.<p></p>
