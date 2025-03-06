@@ -31,3 +31,29 @@
 2. Polling requires current updates, which increase the server load.<p></p>
 3. Stateless nature implies that the server does not keep a continuous connection.<p></p>
 
+<h3>2.2 Utilizing GraphQL in Handling Stock Market Data. </h3>
+<p></p>
+GraphQL is a query language that allows clients to get exactly the needed data, enhancing performance and reducing network overhead.
+<p></p>
+Example GraphQL Queries and Mutations:
+<p></p>
+Obtaining Stock Information :- <p></p>
+query {
+  stocks {
+    symbol
+    name
+    price
+    volume
+    changePercentage
+  }
+}
+<p></p>
+Updating Stock Price :- <p></p>
+mutation {
+  updateStock(symbol: "AAPL", price: 185.50) {
+    symbol
+    price
+    volume
+    changePercentage
+  }
+}
