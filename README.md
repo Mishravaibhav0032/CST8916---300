@@ -160,4 +160,6 @@ Member 2 :- Researched and wrote about WebSockets and final recommendations.<p><
 <h2>9. Video Presentation Link :-</h2>
 
 <h2>10. Conclusion :-</h2>
+<p></p>
+With GraphQL for high-performance data querying and WebSockets for real-time communication, our stock market monitor application provides high performance, low latency, and great scalability. This stack provides stable real-time stock monitoring and thus represents the best choice for our use case.
 
