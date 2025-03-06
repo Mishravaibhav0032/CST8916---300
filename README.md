@@ -123,8 +123,8 @@ WebSocket Example Message Format: <p></p>
 | ------------- | ---------------------------------- | ----------------------- | ------------------------------------ |
 | Communication | Request-response                   | Request-response        | Persistent bi-directional connection |
 | Data Updates	| Polling required                   | Subscriptions supported | Instant push updates                 |
-| Scalability	| Easy but inefficient for real-time | Better than REST        | Requires load balancing              |
-| Use Case	| General APIs                       | Optimized data fetching | Live streaming data                  |
+| Scalability	  | Easy but inefficient for real-time | Better than REST        | Requires load balancing              |
+| Use Case	    | General APIs                       | Optimized data fetching | Live streaming data                  |
 
 
 
