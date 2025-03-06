@@ -126,5 +126,22 @@ WebSocket Example Message Format: <p></p>
 | Scalability	  | Easy but inefficient for real-time | Better than REST        | Requires load balancing              |
 | Use Case	    | General APIs                       | Optimized data fetching | Live streaming data                  |
 
+<h2>Why GraphQL?</h2>
+<p></p>
+1. Efficient Data Fetching :- Fetches only the necessary stock information.<p></p>
+2. Single Endpoint :-  /graphql simplifies API management.<p></p>
+3. GraphQL Subscriptions :- Provides event-driven stock updates.<p></p>
+
+<h2>Why WebSockets?</h2>
+
+1. Real-time Market Updates :- Essential for fast-moving stock data.<p></p>
+2. Low Latency :- Ensures traders receive accurate and instant information.<p></p>
+3. Ideal for Live Trading Dashboards :- Supports continuous updates without polling.<p></p>
+
+<h2>Final Architecture :-</h2>
+
+GraphQL handles initial stock data retrieval.<p></p>
+WebSockets provide live price updates.<p></p>
+GraphQL subscriptions enable targeted real-time updates.<p></p>
 
 
