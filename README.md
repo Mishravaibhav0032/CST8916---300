@@ -97,12 +97,16 @@ mutation {
 3. Client gets live updates without polling or any further HTTP requests.<p></p>
 <p></p>
 WebSocket Example Message Format: <p></p>
-```json
+
+```
 {
   "symbol": "AAPL",
   "price": 185.75,
   "change": "-0.5%",
   "timestamp": "2025-03-04T14:32:00Z"
 }
+```
+
+
 
 
