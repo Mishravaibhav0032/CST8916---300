@@ -77,7 +77,7 @@ mutation {
 3. May be slower for big, deeply nested queries.<p></p>
 
 <p></p>
-2.3 REST vs. GraphQL Comparison for Stock Market Monitoring :- <p></p>
+<h3>2.3 REST vs. GraphQL Comparison for Stock Market Monitoring :- </h3><p></p>
  
 | Feature             |	REST                                        | GraphQL                                |
 | ------------------- | ------------------------------------------- | -------------------------------------- |
