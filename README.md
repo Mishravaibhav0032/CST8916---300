@@ -106,7 +106,16 @@ WebSocket Example Message Format: <p></p>
   "timestamp": "2025-03-04T14:32:00Z"
 }
 ```
+<p>Advantages of WebSockets for Stock Tracking :-</p>
 
+1. Minimizes latency with real-time push updates.<p></p>
+2. Has an ongoing, low-overhead connection.<p></p>
+3. Perfect for real-time financial information and trading applications.<p></p>
+
+<p>Drawbacks of using WebSockets for Stock Monitoring :-</p>
+
+1. Needs additional server resources to keep the connections open.<p></p>
+2. Is hard to scale to large numbers of simultaneous users.<p></p>
 
 
 
