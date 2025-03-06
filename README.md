@@ -19,3 +19,15 @@
 <li>PUT /stocks/{symbol} :- Updates stock price, volume, and other market data.</li>
 <li>DELETE /stocks/{symbol} :- Removes a stock from tracking.</li>
 
+<p>Advantages of REST for Stock Tracking :-</p>.
+
+<li>1. Easy-to-use and well-documented API design.</li>
+<li>2. Compatible with web and mobile applications.</li>
+<li>3. Enables caching of oft-used data.</li>
+
+<p>Drawbacks of REST for Stock Tracking :-</p>
+
+<li>1. Some endpoints cause under-fetching or over-fetching of data.</li>
+<li>2. Polling requires current updates, which increase the server load.</li>
+<li>3. Stateless nature implies that the server does not keep a continuous connection.</li>
+
