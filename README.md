@@ -17,7 +17,7 @@
 <li>GET /stocks/{symbol} :- Retrieves real-time data for a specific stock (e.g., AAPL, TSLA).</li>
 <li>POST /stocks :- Adds a new stock entry to the system.</li>
 <li>PUT /stocks/{symbol} :- Updates stock price, volume, and other market data.</li>
-<li>DELETE /stocks/{symbol} :- Removes a stock from tracking.</li>
+<li>DELETE /stocks/{symbol} :- Removes a stock from tracking.</li> <p></p>
 
 <p>Advantages of REST for Stock Tracking :-</p>
 
