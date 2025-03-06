@@ -62,4 +62,16 @@ mutation {
     changePercentage
   }
 }
+<br> </br>
+<p>Advantages of Utilizing GraphQL for Stock Tracking :-</p>
+
+1. Flexible queries that fetch just needed information.<p></p>
+2. Has one endpoint (/graphql), minimizing complexity.<p></p>
+3. Supports subscriptions, enabling real-time updates without polling.<p></p>
+
+<p>Drawbacks of GraphQL for Stock Monitoring :- </p>
+
+1. More involved setup than REST.<p></p>
+2. It is harder to use caching methods.<p></p>
+3. May be slower for big, deeply nested queries.<p></p>
 
