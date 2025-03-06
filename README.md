@@ -163,3 +163,6 @@ Member 2 :- Researched and wrote about WebSockets and final recommendations.<p><
 <p></p>
 With GraphQL for high-performance data querying and WebSockets for real-time communication, our stock market monitor application provides high performance, low latency, and great scalability. This stack provides stable real-time stock monitoring and thus represents the best choice for our use case.
 
+<h6>Group Member Details :-</h6><p></p>
+Name :- Vaibhav Mishra - 041165850
+Name :- Meet Prajapati - 041178387
